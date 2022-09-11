@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/my-food-app/static/js/main.3aa35b2b.js",
-    "index.html": "/my-food-app/index.html",
-    "main.3aa35b2b.js.map": "/my-food-app/static/js/main.3aa35b2b.js.map"
+    "main.js": "/food/static/js/main.3aa35b2b.js",
+    "index.html": "/food/index.html",
+    "main.3aa35b2b.js.map": "/food/static/js/main.3aa35b2b.js.map"
   },
   "entrypoints": [
     "static/js/main.3aa35b2b.js"
